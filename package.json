@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite --port 8080 --host 0.0.0.0",
     "build": "vite build",
-    "lint": "eslint ."
+    "lint": "eslint . --no-error-on-unmatched-pattern"
   },
   "devDependencies": {
     "eslint": "^8.0.0",
