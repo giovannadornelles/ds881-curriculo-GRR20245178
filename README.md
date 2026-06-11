@@ -9,7 +9,7 @@
 ### 1. Acesso à Aplicação em Produção
 O currículo está publicado e disponível para visualização no GitHub Pages através do link abaixo: 
 
-*[Insira aqui a URL do seu GitHub Pages, ex: https://seu-usuario.github.io/ds881-curriculo-GRR20245178/]*
+*[https://giovannadornelles.github.io/ds881-curriculo-GRR20245178/]*
 
 ### 2. Instruções de Execução Local
 A infraestrutura do projeto foi totalmente conteinerizada. Para executar o ambiente de desenvolvimento localmente, certifique-se de ter o Docker instalado e rode o seguinte comando na raiz do repositório:
